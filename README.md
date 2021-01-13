@@ -4,7 +4,7 @@
 ----------
 
 # Getting started
-Project demo is available at https://minisend.mtcdevserver4.com/
+Project demo is available at minisend.mohammadghamari.mtcdevserver4.com
 ## Installation
 
 Please check the official laravel installation guide for server requirements before you start. [Official Documentation](https://laravel.com/docs/7.x/installation)
