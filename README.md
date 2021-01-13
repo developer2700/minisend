@@ -4,7 +4,7 @@
 ----------
 
 # Getting started
-
+Project demo is available at https://minisend.mtcdevserver4.com/
 ## Installation
 
 Please check the official laravel installation guide for server requirements before you start. [Official Documentation](https://laravel.com/docs/7.x/installation)
@@ -50,8 +50,8 @@ Running the tests
 
 **TL;DR command list**
 
-    git clone git@github.com:developer2700/stations.git
-    cd station
+    git clone git@github.com:developer2700/minisend.git
+    cd minisend
     composer install
     nano .env 
     php artisan key:generate
@@ -64,7 +64,7 @@ Running the tests
 
 ## Database seeding
 
-**Populate the database with seed data with relationships which includes companies, stations. This can help you to quickly start testing the api or couple a frontend and start using it with ready content.**
+**Populate the database with seed data with relationships which includes emails. This can help you to quickly start testing the api or couple a frontend and start using it with ready content.**
 
 Open the DummyDataSeeder and set the property values as per your requirement
 
